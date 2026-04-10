@@ -1,0 +1,35 @@
+Prompt :
+
+create a website using html ,css and javascript on the topic of Premium Shoes brand in which it contains the about us section with 2000 words and the blog section with three-four  data  and it should be fully functional and each section should be on different webpage.
+
+Login & signup system
+
+Checkout payment page
+
+Product images
+
+Animations & premium UI (like Nike website)
+
+change the website name to FootFlex and make it look more good by changing the css and add the product like 8-10 products.
+
+make the blog section with more detailed articles and add two more products.
+
+Add product size selector (6,7,8,9,10) and the make the cart system by add the detailed webpage with more interactive looks and proper functional with the best payment gateway.
+
+Problems Occured at the time of creation :
+
+add to cart is not working properly make it more smooth.
+
+Still the Add to cart button is not working properly.
+
+Product is not getting added in the cart system.
+
+Shop webpage is not visible properly because it is very zoomed css is not working properly.
+
+after adding the product to the cart at the time of checkout the amount will be shown zero.
+
+after checkout the order is directly placed without the payment page.
+
+add to cart button is working but in price it shows null and the cart amount will be zero.
+
+give all the final code for each webpage.

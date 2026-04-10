@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Payment | FootFlex</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body onload="loadPayment()">
+
+<header>
+<div class="logo">FootFlex</div>
+<nav>
+<a href="index.html">Home</a>
+<a href="shop.html">Shop</a>
+<a href="cart.html">Cart</a>
+</nav>
+</header>
+
+<h1 class="title">Secure Payment</h1>
+
+<div class="payment-box">
+
+<h2 id="payAmount">Amount: ₹0</h2>
+
+<div class="payment-methods">
+
+<button class="pay-btn" onclick="payUPI()">UPI</button>
+<button class="pay-btn" onclick="payCard()">Credit / Debit Card</button>
+<button class="pay-btn" onclick="payCOD()">Cash On Delivery</button>
+
+</div>
+
+</div>
+<script defer src="payment.js"></script>
+<script src='https://cdn.jotfor.ms/agent/embedjs/019d532332c57ab895e482dbb133f92586be/embed.js'>
+</script>
+</body>
+</html>
